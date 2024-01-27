@@ -1,1 +1,1 @@
-# i am a person
+# Python and Lua are pretty cool
