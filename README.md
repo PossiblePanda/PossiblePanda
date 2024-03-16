@@ -1,1 +1,1 @@
-### I don't know what to write but i make programs for various purposes
+### I don't know what to write but I make programs for various purposes
